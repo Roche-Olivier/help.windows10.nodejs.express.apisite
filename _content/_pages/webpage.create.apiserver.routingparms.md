@@ -1,4 +1,5 @@
-### [![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Index") Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
+
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
 
 ## Server routing with parameters
 
@@ -124,7 +125,8 @@ You will see the following response on your screen as json<br>
 `{"success":true,"httpStatusCode":200,"data":"read_an__item"}`
 
 
-![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Examples and lessons")
+
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
 
 
 

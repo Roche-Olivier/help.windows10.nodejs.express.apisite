@@ -1,4 +1,5 @@
-### [![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Index") Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
+
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
 
 ## Swagger for your API
 
@@ -252,7 +253,8 @@ api_routes(app);
 
 app.listen(3100)
 ```
-![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Examples and lessons")
+
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
 
 
 

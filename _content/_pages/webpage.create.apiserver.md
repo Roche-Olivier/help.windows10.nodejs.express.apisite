@@ -1,4 +1,5 @@
-### [![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Index") Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
+
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
 
 ## Create a basic api server
 
@@ -123,7 +124,7 @@ You can change your index.html file under the pages folder to look like this.
 
 We now have a structure for an API site with a UI to greet the developer when they access the API site.
 
-![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Examples and lessons")
 
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
 
 

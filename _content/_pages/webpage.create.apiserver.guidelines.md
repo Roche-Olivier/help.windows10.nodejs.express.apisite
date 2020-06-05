@@ -1,4 +1,5 @@
-### [![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.basics/blob/master/_content/_images/home.png "Index") Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
+
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
 
 ## Some general API guidelines
 
@@ -430,7 +431,7 @@ Note: If the mock parameter is included in a request to the production environme
 =============
 <br>
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.<br>
-![Examples and lessons](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Examples and lessons")
 
+[![Index](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite/blob/master/_content/_images/footer.png "Table fo contents")](https://github.com/Roche-Olivier/help.windows10.nodejs.express.apisite)
 
 
